@@ -1,0 +1,1 @@
+sudo docker run --name estudo-go -v go:/usr/go golang:latest
