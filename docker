@@ -1,1 +1,1 @@
-sudo docker run --name estudo-go -v go:/usr/go golang:latest
+sudo docker run it  --name estudo-go -v go:/usr/go golang:latest
